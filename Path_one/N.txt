@@ -1,0 +1,76 @@
+TV:电视,彩色电视,智能电视
+air conditioner:空调,冷气,暖气
+fan:风扇,电扇,吊扇
+light:灯,电灯,照明灯
+refrigerator:冰箱,冰柜,冷藏箱
+microwave oven:微波炉,微波,微波炉
+oven:烤箱,烘焙箱,烤炉
+dishwasher:洗碗机,自动洗碗,洗碗机
+washing machine:洗衣机,洗衣,洗衣机
+vacuum cleaner:吸尘器,吸尘,清洁器
+iron:熨斗,熨烫机,熨平机
+Desk Lamp:台灯,LED台灯,智能台灯
+Radio:收音机,便携式收音机,数字调谐收音机                                 
+Smart Thermostat: 智能恒温器, 温度控制器, 智能温控
+Smart Lock: 智能门锁, 电子锁, 密码锁
+Smart Curtain: 智能窗帘, 自动窗帘, 电动窗帘
+Smart Lighting: 智能照明, LED智能灯, 智能灯泡
+Smart Outlet: 智能插座, 节能插座, 定时插座
+Smart Speaker: 智能音箱, 语音助手, 无线音箱
+Smart Security Camera: 智能安防摄像头, 监控摄像头, 家庭监控
+Smart Doorbell: 智能门铃, 视频门铃, 无线门铃
+Smart Fridge: 智能冰箱, 互联网冰箱, 智能冷藏
+Smart Oven: 智能烤箱, 互联网烤箱, 烹饪助手
+Smart Cooktop: 智能灶台, 感应灶, 互联网烹饪
+Smart Toaster: 智能烤面包机, 互联网烤面包机, 自动烤面包机
+Smart Coffee Maker: 智能咖啡机, 自动咖啡机, 互联网咖啡机
+Smart Blender: 智能搅拌机, 互联网搅拌机, 自动搅拌机
+Smart Kettle: 智能水壶, 互联网水壶, 自动水壶
+Smart Dishwasher: 智能洗碗机, 自动洗碗, 互联网洗碗机
+Smart Washing Machine: 智能洗衣机, 自动洗衣, 互联网洗衣机
+Smart Dryer: 智能烘干机, 互联网烘干机, 自动烘干机
+Smart Vacuum Cleaner: 智能吸尘器, 机器人吸尘器, 互联网吸尘器
+Smart Air Purifier: 智能空气净化器, 空气清洁器, 互联网空气净化器
+Smart Humidifier: 智能加湿器, 互联网加湿器, 自动加湿器
+Smart Dehumidifier: 智能除湿器, 互联网除湿器, 自动除湿器
+Smart Water Heater: 智能热水器, 互联网热水器, 自动热水器
+Smart Sprinkler System: 智能喷水系统, 互联网喷水系统, 自动喷水系统
+Smart Pet Feeder: 智能宠物喂食器, 互联网宠物喂食器, 自动宠物喂食器
+Smart Pet Monitor: 智能宠物监控器, 宠物摄像头, 互联网宠物监控
+Smart Garden System: 智能园艺系统, 互联网园艺系统, 自动园艺系统
+Smart Window: 智能窗户, 自动窗户, 互联网窗户
+Smart Mirror: 智能镜子, 互联网镜子, 智能化妆镜
+Smart Scale: 智能体重秤, 互联网体重秤, 健康监测秤
+Smart Fitness Tracker: 智能健身追踪器, 健康追踪器, 运动监测器
+Smart Blood Pressure Monitor: 智能血压监测器, 互联网血压计, 自动血压计
+Smart Glucose Meter: 智能血糖仪, 互联网血糖仪, 自动血糖仪
+Smart Pill Dispenser: 智能药盒, 互联网药盒, 自动药盒
+Smart Sleep Tracker: 智能睡眠追踪器, 睡眠监测器, 健康睡眠助手
+Smart Mattress: 智能床垫, 互联网床垫, 睡眠优化床垫
+Smart Bedding: 智能床上用品, 互联网床上用品, 自动调节床上用品
+Smart Alarm Clock: 智能闹钟, 互联网闹钟, 自动闹钟
+Smart Projector: 智能投影仪, 互联网投影仪, 自动投影仪
+Smart TV: 智能电视, 互联网电视, 智能彩电
+Smart Soundbar: 智能音响条, 互联网音响条, 自动音响条
+Smart Router: 智能路由器, 互联网路由器, 自动路由器
+Smart Switch: 智能开关, 互联网开关, 自动开关
+Smart Thermostat: 智能温控器, 互联网温控器, 自动温控器
+Smart Irrigation System: 智能灌溉系统, 互联网灌溉系统, 自动灌溉系统
+Smart Pool System: 智能泳池系统, 互联网泳池系统, 自动泳池系统
+Smart Garage Door: 智能车库门, 互联网车库门, 自动车库门
+Smart Car Charger: 智能车充, 互联网车充, 自动车充
+Smart Car Key: 智能车钥匙, 互联网车钥匙, 自动车钥匙
+Smart Car System: 智能汽车系统, 互联网汽车系统, 自动汽车系统
+Chinese:中文
+English:英文
+japanese:日语
+korean:韩语
+french:法语
+spanish:西班牙语
+german:德语
+italian:意大利语
+russian:俄语
+portuguese:葡萄牙语
+thai:泰语
+vietnamese:越南语
+arabic:阿拉伯语
